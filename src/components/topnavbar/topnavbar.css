@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    padding: 1rem;
+}
+
+.hamburger{
+    padding: 0.1rem;
+}
+
+.logo{
+    display: flex;
+    padding-left: 1rem;
+    align-items: center;
+}
+.logo-title{
+    align-self: center;
+    font-size: 1.5rem;
+}
+
+.search-box{
+    display: flex;
+    margin-left: 10rem;
+}
+.search-bar{
+    width: 30rem;
+}
+.search-icon{
+    border: 1px solid #333;
+    padding: 0.4rem 1.2rem;
+}
+.microphone-icon{
+    padding: 0.2rem 1rem;
+}
+
+.tiles{
+    display: flex;
+    margin-left: 10rem;
+}
+.tile-items{
+    padding-left: 1.4rem;
+}
