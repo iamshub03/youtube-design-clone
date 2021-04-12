@@ -1,6 +1,6 @@
 .navbar{
     display: flex;
-    padding: 1rem;
+    padding: 1rem 1rem 0.25rem 1rem;
 }
 
 .hamburger{
@@ -34,7 +34,7 @@
 
 .tiles{
     display: flex;
-    margin-left: 10rem;
+    margin-left: 8rem;
 }
 .tile-items{
     padding-left: 1.4rem;
