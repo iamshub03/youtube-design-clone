@@ -1,0 +1,10 @@
+.taglist-container{
+    display: flex;
+    overflow: hidden;
+}
+.taglist-item{
+    padding: 0.2rem 1rem;
+    margin: 0 0.5rem;
+    border: 1px solid black;
+    border-radius: 400px;
+}

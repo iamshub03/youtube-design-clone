@@ -1,0 +1,28 @@
+.cards{
+    margin: 1rem 1rem 1rem 3rem;
+    display: flex;
+}
+.cardImage-1{
+    margin: 0.5rem;
+    height: 168px;
+    width: 280px;
+    background: url('../../DataSet//thumbnailImages/image-1.jfif');
+}
+.cardImage-2{
+    margin: 0.5rem;
+    height: 168px;
+    width: 280px;
+    background: url('../../DataSet//thumbnailImages/image-2.jfif');
+}
+.cardImage-3{
+    margin: 0.5rem;
+    height: 168px;
+    width: 280px;
+    background: url('../../DataSet//thumbnailImages/image-3.jfif');
+}
+.cardImage-4{
+    margin: 0.5rem;
+    height: 168px;
+    width: 280px;
+    background: url('../../DataSet//thumbnailImages/image-4.jfif');
+}
